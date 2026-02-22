@@ -2,7 +2,7 @@ import os
 import streamlit as st
 
 # Custom imports 
-from multipage import MultiPage
+from pages.multipage import MultiPage
 from modules import data_upload, machine_learning, data_quality, data_visualize # import your modules here
 
 # Create an instance of the app 
