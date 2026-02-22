@@ -10,14 +10,14 @@ app = MultiPage()
 
 # Configure page settings
 st.set_page_config(
-    page_title="Data Storyteller",
+    page_title="Futuresight",
     page_icon="📊",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
 # Title of the main page
-st.title("📊 Data Storyteller Application")
+st.title("📊 Futuresight Prediction System")
 st.caption("Transform your data into insights with powerful visualization and ML")
 
 # Add all your application here
